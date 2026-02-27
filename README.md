@@ -73,11 +73,3 @@
 </p>
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jabujoyhlongwane&show_icons=true&theme=radical&hide_border=true" alt="Jabu's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jabujoyhlongwane&theme=radical&hide_border=true" alt="Jabu's GitHub Streak" />
-</div>
